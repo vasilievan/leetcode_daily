@@ -1,5 +1,5 @@
-/// Minimum Number of Arrows to Burst Balloons
-/// # Arguments
+/// # Minimum Number of Arrows to Burst Balloons
+/// ## Arguments
 /// * `points` - A vector with balloons representation.
 ///
 /// There are some spherical balloons taped onto a flat wall that represents the XY-plane.
